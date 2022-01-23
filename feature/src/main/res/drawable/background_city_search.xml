@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <!--        <color android:color="@color/white" />-->
+        <shape android:shape="rectangle">
+            <gradient android:angle="45"></gradient>
+            <gradient
+
+                android:startColor="@color/background_city_search2"
+                android:endColor="@color/white"
+                >
+
+            </gradient>
+        </shape>
+
+    </item>
+    <item android:top="@dimen/_148sdp">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="rectangle">
+            <corners
+                android:topLeftRadius="@dimen/_96sdp"
+                android:topRightRadius="@dimen/_48sdp" />
+            <solid android:color="@color/white"></solid>
+        </shape>
+    </item>
+
+</layer-list>
