@@ -12,6 +12,8 @@ WeatherForecast Test Application
 
 ![project](https://github.com/IamWorkAndWork/MyWeatherForecastApp/blob/master/images/2openAndroidStudioAndOpen.png)
 
+![project](https://github.com/IamWorkAndWork/MyWeatherForecastApp/blob/master/images/3selectProject.png)
+
 ![project](https://github.com/IamWorkAndWork/MyWeatherForecastApp/blob/master/images/4waitingForBuild.png)
 
 ![project](https://github.com/IamWorkAndWork/MyWeatherForecastApp/blob/master/images/5runTheProject.png)
@@ -32,12 +34,5 @@ WeatherForecast Test Application
 
 # Demo
 
-![project](https://github.com/IamWorkAndWork/MyWeatherForecastApp/blob/master/images/app1.png)
+![project](https://github.com/IamWorkAndWork/MyWeatherForecastApp/blob/master/images/appDemo.png)
 
-![project](https://github.com/IamWorkAndWork/MyWeatherForecastApp/blob/master/images/app2.png)
-
-![project](https://github.com/IamWorkAndWork/MyWeatherForecastApp/blob/master/images/app3.png)
-
-![project](https://github.com/IamWorkAndWork/MyWeatherForecastApp/blob/master/images/app4.png)
-
-![project](https://github.com/IamWorkAndWork/MyWeatherForecastApp/blob/master/images/app5.png)
