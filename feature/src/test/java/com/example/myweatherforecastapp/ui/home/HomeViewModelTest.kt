@@ -66,7 +66,7 @@ class HomeViewModelTest : BaseUnitTest() {
         )
 
         val resultsHomeUiModel = mutableListOf<ResultState<List<HomeUiModel>>>()
-        val resultsSettingModel = mutableListOf<SettingModel>()
+        val resultsSettingModel = mutableListOf<SettingModel>(settingModel)
 
         //when
         val job = launch {
@@ -98,10 +98,6 @@ class HomeViewModelTest : BaseUnitTest() {
 
         //then
         homeViewModel.loadHomeUiData()
-
-        println("resultsHomeUiModel= ${resultsHomeUiModel.size}")
-        println("resultsSettingModel= ${resultsSettingModel.size}")
-
 
         job.cancel()
         jobHomeUiModel.cancel()
