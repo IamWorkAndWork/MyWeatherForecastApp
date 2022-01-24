@@ -3,7 +3,7 @@ package com.example.core
 object Constants {
 
     //TODO("This for only test; need to remove or move to appropriate place")
-    const val API_KEY = ""
+    const val API_KEY = "e8217584c7e76aaf2cd62b126ba0a011"
 
     const val BASE_URL_OPEN_WEATHER_MAP = "https://api.openweathermap.org/"
     const val BASE_URL_COUNTRIES_NOW = "https://countriesnow.space/"
