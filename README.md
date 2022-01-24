@@ -35,6 +35,7 @@ WeatherForecast Test Application
 - Retrofit for Networking  
 - Airbnb Epoxy : for building complex screens in a RecyclerView
 - Coil : Image Loading library
+- Coroutines + Asynchronous Flow : for working asynchronous and handling long running task
 
 # reusability Implement
 - for reuse to support for 7-day forecast
