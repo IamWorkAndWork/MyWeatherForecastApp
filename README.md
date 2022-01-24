@@ -20,7 +20,7 @@ WeatherForecast Test Application
 - waiting for the building process
 ![project](https://github.com/IamWorkAndWork/MyWeatherForecastApp/blob/master/images/4waitingForBuild.png)
 
-- if build is done then press run the run the project
+- if build is done then press "run" to run the project
 ![project](https://github.com/IamWorkAndWork/MyWeatherForecastApp/blob/master/images/5runTheProject.png)
 
 - source code structure
@@ -47,7 +47,7 @@ WeatherForecast Test Application
 
 ![project](https://github.com/IamWorkAndWork/MyWeatherForecastApp/blob/master/images/reuse1.png)
 
-- getting data from 7-day forecast is handle in function "loadHomeUiData" with combine operation so we can merge data and mapping the sequence of the UI
+- getting data from 7-day forecast is handle in function "loadHomeUiData" with combine operation so we can merge data from another API and mapping the sequence of the UI here.
 
 ![project](https://github.com/IamWorkAndWork/MyWeatherForecastApp/blob/master/images/reuse2.png)
 
@@ -55,9 +55,13 @@ WeatherForecast Test Application
 
 ![project](https://github.com/IamWorkAndWork/MyWeatherForecastApp/blob/master/images/reuse3.png)
 
-- in the "HomeUiController" is where to render the UI layout according with the xml layout and binding the data to show.
+- in the "HomeUiController" is where to render the UI layout according with the xml layout and binding the data to show
 
 ![project](https://github.com/IamWorkAndWork/MyWeatherForecastApp/blob/master/images/reuse4.png)
+
+- with the Epoxy library, we can now flexible to reuse and adjust the layout in UI and this is layout structure in the app.
+
+![project](https://github.com/IamWorkAndWork/MyWeatherForecastApp/blob/master/images/uisection.png)
 
 # Demo
 
